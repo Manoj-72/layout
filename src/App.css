@@ -1,0 +1,13 @@
+.App{
+  overflow: hidden;
+}
+.content{
+  padding: 0;
+}
+.sidebarBox{
+  padding: 0;
+}
+.mainBox{
+  margin: 0;
+  padding: 0;
+} 

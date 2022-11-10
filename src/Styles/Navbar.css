@@ -1,0 +1,28 @@
+.Nav-links{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    height: 60px;
+    background-color:  #015C77;
+}
+
+.Nav-list{
+    font-size: 16px;
+    font-weight: 500;
+    padding-right: 33px;
+    margin: 0;
+    color: #fff;
+}
+.Nav-button{
+    width: 64px;
+    height: 28px;
+    outline: none;
+    background: #E5E5E5;
+    border: 1px solid #FFFFFF;
+    border-radius: 24px;
+    padding: auto;
+    font-weight: 500;
+    margin-right: 62px;
+    font-size: 14px;
+}

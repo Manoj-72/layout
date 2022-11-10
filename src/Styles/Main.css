@@ -1,0 +1,46 @@
+.main{
+    background-color: red;
+    overflow: hidden !important;
+    overflow-x: hidden !important;
+}
+.topBody{
+    height: 100px;
+    background-color: #008081;
+    padding: 0!important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.middleBody{
+    padding: 0 !important;
+}
+.middleBodyC1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 457px;
+    background: #FE6347;
+    padding: 0;
+}
+.middleBodyC2{
+    height: 457px;
+    background: #FFFF00;
+    padding: 0;
+    display: flex;
+    align-items: center;
+}
+.middleBodyC3{
+    height: 457px;
+    background: #9ACD32;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bottomBody{
+    height: 80px;
+    background: #EE82EF ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
